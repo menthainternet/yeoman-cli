@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "grunt": "http://github.com/cowboy/grunt/archive/0ba6d4b529.tar.gz",
-    "yeoman-generators": "http://github.com/yeoman/generators/archive/0.9.5.tar.gz",
+    "yeoman-generators": "menthainternet/yeoman-generators",
     "bower": "~0.3.0",
     "open": "0.0.2",
     "rimraf": "~2.0.1",
